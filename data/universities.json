@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "name":"NTNU"
+    },
+    {
+        "id":2,
+        "name":"Østfold University College"
+    },
+    {
+        "id":3,
+        "name": "University of Oslo"
+    }
+]

@@ -7,11 +7,11 @@
     {
         "id":2,
         "name":"Vilde Hansen",
-        "uni-id":1
+        "uni_id":1
     },
     {
         "id":3,
         "name": "Håkon Jensen",
-        "uni-id":2
+        "uni_id":2
     }
 ]

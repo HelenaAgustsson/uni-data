@@ -1,14 +1,17 @@
 [
     {
         "id":1,
-        "name":"Norwegian University of Science and Technology (NTNU)"
+        "name":"Norwegian University of Science and Technology (NTNU)",
+        "logo":"https://helenaagustsson.github.io/uni-data/images/logo/ntnu.png"
     },
     {
         "id":2,
-        "name":"Østfold University College"
+        "name":"Østfold University College",
+        "logo":"https://helenaagustsson.github.io/uni-data/images/logo/hiof.jpg"
     },
     {
         "id":3,
-        "name": "Arctic University of Norway"
+        "name": "Arctic University of Norway",
+        "logo":"https://helenaagustsson.github.io/uni-data/images/logo/uit.png"
     }
 ]

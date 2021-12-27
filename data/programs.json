@@ -2,16 +2,19 @@
     {
         "id":1,
         "name":"BSc Information Technology",
+        "uni_id":1,
         "url":"https://www.ntnu.no/studier/itbainfo"
     },
     {
         "id":2,
         "name":"BA European Languages",
+        "uni_id":2,
         "url":"https://www.hiof.no/studier/programmer/bspr-bachelorstudium-i-sprak/index.html"
     },
     {
         "id":3,
         "name": "BSc Software Engineering",
+        "uni_id":3,
         "url":"https://uit.no/utdanning/program/446220/datateknikk_ingenior_-_bachelor_nettbasert"
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-        "name":"NTNU"
+        "name":"Norwegian University of Science and Technology (NTNU)"
     },
     {
         "id":2,
@@ -9,6 +9,6 @@
     },
     {
         "id":3,
-        "name": "University of Oslo"
+        "name": "Arctic University of Norway"
     }
 ]
